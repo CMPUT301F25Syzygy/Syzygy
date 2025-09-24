@@ -1,4 +1,4 @@
 # Syzygy
 Lab 4 exercise 
-
-Wren Durbano (wdurbano)
+ccid: aliha
+student number: 1752265
